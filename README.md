@@ -1,4 +1,4 @@
-## How To Create Simple Login Form With HTML, CSS and Vanilla JS. [ Two Features Included ]
+## How To Create Simple Login Form With HTML, CSS & Vanilla JS. [ Two Features Included ]
 Two Features-
 1. Press ```Enter``` or ```Return``` button to show login box.
 2. Press ```Esc``` button to hide login box.
